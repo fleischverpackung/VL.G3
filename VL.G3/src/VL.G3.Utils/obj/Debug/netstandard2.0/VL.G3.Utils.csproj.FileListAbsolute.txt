@@ -1,0 +1,10 @@
+C:\Users\Achim\Documents\GitHub\VL.G3\VL.G3\src\VL.G3.Utils\bin\Debug\netstandard2.0\VL.G3.Utils.deps.json
+C:\Users\Achim\Documents\GitHub\VL.G3\VL.G3\src\VL.G3.Utils\bin\Debug\netstandard2.0\VL.G3.Utils.dll
+C:\Users\Achim\Documents\GitHub\VL.G3\VL.G3\src\VL.G3.Utils\bin\Debug\netstandard2.0\VL.G3.Utils.pdb
+C:\Users\Achim\Documents\GitHub\VL.G3\VL.G3\src\VL.G3.Utils\obj\Debug\netstandard2.0\VL.G3.Utils.csproj.AssemblyReference.cache
+C:\Users\Achim\Documents\GitHub\VL.G3\VL.G3\src\VL.G3.Utils\obj\Debug\netstandard2.0\VL.G3.Utils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Achim\Documents\GitHub\VL.G3\VL.G3\src\VL.G3.Utils\obj\Debug\netstandard2.0\VL.G3.Utils.AssemblyInfoInputs.cache
+C:\Users\Achim\Documents\GitHub\VL.G3\VL.G3\src\VL.G3.Utils\obj\Debug\netstandard2.0\VL.G3.Utils.AssemblyInfo.cs
+C:\Users\Achim\Documents\GitHub\VL.G3\VL.G3\src\VL.G3.Utils\obj\Debug\netstandard2.0\VL.G3.Utils.csproj.CoreCompileInputs.cache
+C:\Users\Achim\Documents\GitHub\VL.G3\VL.G3\src\VL.G3.Utils\obj\Debug\netstandard2.0\VL.G3.Utils.dll
+C:\Users\Achim\Documents\GitHub\VL.G3\VL.G3\src\VL.G3.Utils\obj\Debug\netstandard2.0\VL.G3.Utils.pdb

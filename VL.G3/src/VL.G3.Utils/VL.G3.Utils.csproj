@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="geometry3Sharp" Version="1.0.324" />
+    <PackageReference Include="Stride.Rendering" Version="4.0.1.1428" />
+  </ItemGroup>
+
+</Project>
